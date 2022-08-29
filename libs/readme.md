@@ -4,7 +4,10 @@
 ### 联系方式
 > Staticing@foxmail.com
 
-使用RawCdn（Staticing类似Cdnjs的项目）
+RawCdn是Staticing类似Cdnjs的项目（：
+你可以使用这个源：
+
+`` sb.rawcdn.top ``
 
 ### 项目列表：
 > 没有（
