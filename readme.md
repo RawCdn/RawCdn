@@ -1,5 +1,5 @@
 # About
 
-RawCdn is made and owned by Staticing
+RawCdn is owned by Staticing
 
-RawCdn由Staticing制作且所有
+RawCdn Staticing 所有
